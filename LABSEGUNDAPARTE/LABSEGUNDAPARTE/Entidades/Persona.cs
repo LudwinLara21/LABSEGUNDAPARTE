@@ -8,5 +8,17 @@ namespace LABSEGUNDAPARTE.Entidades
 {
     class Persona
     {
+        private String nombre;
+        private int edad;
+        private String sexo;
+        private double peso;
+        private double altura;
+
+
+
+
+
+
+
     }
 }
