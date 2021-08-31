@@ -8,5 +8,11 @@ namespace LABSEGUNDAPARTE.Negocio
 {
     class ClsPersona
     {
+        class Persona
+        {
+           
+        }
     }
+
+}
 }
